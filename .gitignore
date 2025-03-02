@@ -25,3 +25,11 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Add the following lines to your .gitignore file:
+tmp/
+_old/
+_tmp/
+**/tmp/
+**/_old/
+**/_tmp/
