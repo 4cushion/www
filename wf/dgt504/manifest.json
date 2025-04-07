@@ -6,9 +6,6 @@
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "4CS DGT504 hybrid watch face for WearOS",
-    "lang": "en-US",
-    "scope": ".",
-    "related_applications": [],
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
