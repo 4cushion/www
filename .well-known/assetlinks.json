@@ -11,5 +11,18 @@
           "6C:01:DE:91:7A:1A:7F:A2:A8:BD:8F:1C:03:F5:AE:B8:0B:E8:12:E2:D6:7B:6E:01:47:C6:12:A5:16:2C:D2:C0"
         ]
       }
+    },
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls",
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.fourcushion.dgt504",
+        "sha256_cert_fingerprints": [
+          "4F:05:1A:6A:EE:A9:5D:C5:B0:86:8A:A2:B2:5E:99:53:6A:75:88:2C:08:49:E8:B1:64:5A:2B:71:22:A3:6F:A9"
+        ]
+      }
     }
   ]
