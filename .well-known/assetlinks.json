@@ -19,6 +19,19 @@
       ],
       "target": {
         "namespace": "android_app",
+        "package_name": "com.fourcushion.grf503",
+        "sha256_cert_fingerprints": [
+          "B2:45:4D:68:EE:2C:D3:39:E2:10:32:D4:43:80:5B:1E:D2:D4:81:AA:99:A6:72:C7:0E:E8:E7:B0:FF:14:AE:72"
+        ]
+      }
+    },
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls",
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
         "package_name": "com.fourcushion.dgt504",
         "sha256_cert_fingerprints": [
           "4F:05:1A:6A:EE:A9:5D:C5:B0:86:8A:A2:B2:5E:99:53:6A:75:88:2C:08:49:E8:B1:64:5A:2B:71:22:A3:6F:A9"
